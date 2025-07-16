@@ -37,16 +37,12 @@
         "setDecorations": true,
         "setAlwaysOnTop": true,
         "setContentProtected": true,
-        "setVisibleOnAllWorkspaces": true,
         "setMinSize": true,
         "setMaxSize": true,
         "center": true,
         "requestUserAttention": true
       },
       "notification": {
-        "all": true
-      },
-      "systemTray": {
         "all": true
       },
       "fs": {
@@ -123,10 +119,8 @@
       }
     ],
     "systemTray": {
-      "iconPath": "icons/icon.png",
-      "iconAsTemplate": true,
-      "menuOnLeftClick": false,
-      "tooltip": "Modern Timesheet Tracker"
+      "iconPath": "icons/icon.ico",
+      "iconAsTemplate": false
     }
   }
 }
