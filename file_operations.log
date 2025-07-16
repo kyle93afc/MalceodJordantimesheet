@@ -1,0 +1,950 @@
+2025-02-19 10:36:59,879 - FileManager - INFO - No existing files found for date: 2025-02-19
+2025-02-19 10:36:59,879 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-19 10:41:40,413 - FileManager - INFO - No existing files found for date: 2025-02-19
+2025-02-19 10:41:40,414 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-19 11:18:37,990 - FileManager - INFO - No existing files found for date: 2025-02-19
+2025-02-19 11:18:37,993 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19_11-18.csv
+2025-02-19 11:18:37,993 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-19.json
+2025-02-19 11:19:25,912 - FileManager - INFO - Loaded 12 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-19.json
+2025-02-19 11:19:25,913 - FileManager - DEBUG - Found latest file: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19_11-18.csv
+2025-02-19 11:19:25,920 - FileManager - ERROR - Error processing row 2: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 11:19:25,920 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 11:19:25,920 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 11:19:25,920 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 11:19:25,921 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 11:19:25,921 - FileManager - ERROR - Error processing row 7: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 11:19:25,921 - FileManager - INFO - Successfully loaded 5 projects
+2025-02-19 15:06:08,595 - FileManager - INFO - Loaded 12 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-19.json
+2025-02-19 15:06:08,595 - FileManager - DEBUG - Found latest file: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19_11-18.csv
+2025-02-19 15:06:08,601 - FileManager - ERROR - Error processing row 2: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:06:08,601 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:06:08,601 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:06:08,601 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:06:08,601 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:06:08,602 - FileManager - ERROR - Error processing row 7: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:06:08,602 - FileManager - INFO - Successfully loaded 5 projects
+2025-02-19 15:07:27,836 - FileManager - DEBUG - Found latest file: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19_11-18.csv
+2025-02-19 15:07:27,841 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup_project_times_2025-02-19_11-18.csv
+2025-02-19 15:07:27,842 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19_15-07.csv
+2025-02-19 15:07:27,842 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-19.json
+2025-02-19 15:08:21,506 - FileManager - INFO - Loaded 173 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-19.json
+2025-02-19 15:08:21,507 - FileManager - DEBUG - Found latest file: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19_15-07.csv
+2025-02-19 15:08:21,512 - FileManager - ERROR - Error processing row 2: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:08:21,512 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:08:21,512 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:08:21,512 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:08:21,512 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:08:21,512 - FileManager - ERROR - Error processing row 7: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-19 15:08:21,512 - FileManager - INFO - Successfully loaded 6 projects
+2025-02-19 15:56:57,364 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19.csv
+2025-02-19 15:57:08,074 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19.csv
+2025-02-19 15:57:14,270 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19.csv
+2025-02-19 15:57:21,492 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19.csv
+2025-02-19 15:57:27,848 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19.csv
+2025-02-19 16:00:42,513 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19.csv
+2025-02-19 16:00:42,514 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19.csv
+2025-02-19 16:01:17,086 - FileManager - INFO - No existing files found for date: 2025-02-19
+2025-02-19 16:01:17,086 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-19 16:01:26,387 - FileManager - INFO - No existing files found for date: 2025-02-19
+2025-02-19 16:01:26,388 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-19_16-01.csv
+2025-02-19 16:01:26,388 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-19.json
+2025-02-20 08:18:08,755 - FileManager - INFO - No existing files found for date: 2025-02-20
+2025-02-20 08:18:08,755 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-20 08:24:50,822 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-20 08:36:57,430 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-20 08:39:37,132 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 08:39:37,132 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 08:52:18,457 - FileManager - INFO - Loaded 80 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 08:52:18,458 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 08:52:18,458 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 08:52:18,458 - FileManager - INFO - Successfully loaded 3 projects
+2025-02-20 08:57:18,669 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 08:57:18,672 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 08:57:18,672 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:02:18,932 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:02:18,939 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:02:18,940 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:07:19,209 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:07:19,214 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:07:19,215 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:12:19,318 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:12:19,325 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:12:19,325 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:17:19,534 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:17:19,551 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:17:19,552 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:22:19,768 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:22:19,779 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:22:19,780 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:27:19,875 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:27:19,887 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:27:19,887 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:32:19,893 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:32:19,904 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:32:19,904 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:44:01,674 - FileManager - INFO - Loaded 1305 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:44:01,678 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 09:44:01,678 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 09:44:01,678 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 09:44:01,678 - FileManager - INFO - Successfully loaded 4 projects
+2025-02-20 09:49:01,690 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:49:01,702 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:49:01,702 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:54:03,675 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:54:03,695 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:54:03,696 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 09:59:05,674 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 09:59:05,687 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 09:59:05,689 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:04:05,975 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:04:05,990 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:04:05,990 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:09:06,102 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:09:06,122 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:09:06,123 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:14:06,316 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:14:06,337 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:14:06,338 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:19:06,493 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:19:06,514 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:19:06,514 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:24:06,631 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:24:06,652 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:24:06,652 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:29:06,795 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:29:06,822 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:29:06,822 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:34:07,021 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:34:07,044 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:34:07,045 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:39:07,334 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:39:07,367 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:39:07,367 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:44:07,437 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:44:07,468 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:44:07,468 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:49:07,659 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:49:07,673 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:49:07,673 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:54:09,658 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:54:09,677 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:54:09,677 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 10:59:11,656 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 10:59:11,674 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 10:59:11,674 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:04:11,778 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:04:11,794 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:04:11,794 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:09:12,012 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:09:12,030 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:09:12,030 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:14:12,056 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:14:12,074 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:14:12,074 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:19:12,074 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:19:12,092 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:19:12,092 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:24:12,138 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:24:12,156 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:24:12,156 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:29:12,152 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:29:12,172 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:29:12,172 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:34:12,190 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:34:12,209 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:34:12,210 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:39:12,230 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:39:12,250 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:39:12,250 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:44:12,279 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:44:12,303 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:44:12,303 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:49:12,304 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:49:12,325 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:49:12,325 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:54:12,312 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:54:12,334 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:54:12,334 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 11:59:14,318 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 11:59:14,340 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 11:59:14,340 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:04:14,827 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:04:14,851 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:04:14,851 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:09:16,816 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:09:16,850 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:09:16,850 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:14:16,842 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:14:16,866 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:14:16,866 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:19:16,883 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:19:16,910 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:19:16,911 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:24:16,939 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:24:16,964 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:24:16,964 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:29:16,949 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:29:16,976 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:29:16,976 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:34:16,954 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:34:16,982 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:34:16,982 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:39:16,973 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:39:17,001 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:39:17,001 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:44:16,984 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:44:17,013 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:44:17,013 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:49:17,034 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:49:17,065 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:49:17,066 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:54:19,027 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:54:19,063 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:54:19,064 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 12:59:19,492 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 12:59:19,529 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 12:59:19,529 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 13:04:19,562 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 13:04:19,598 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 13:04:19,599 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 13:09:19,635 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 13:09:19,669 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 13:09:19,670 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 13:14:19,656 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 13:14:19,691 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 13:14:19,691 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 13:18:02,750 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 13:18:02,791 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 13:18:02,791 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 13:55:31,917 - FileManager - INFO - Loaded 8588 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 7: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 8: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 9: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 10: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 11: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 12: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 13: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 14: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 15: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - ERROR - Error processing row 16: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 13:55:31,918 - FileManager - INFO - Successfully loaded 15 projects
+2025-02-20 14:00:31,912 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:00:31,949 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:00:31,949 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:05:31,910 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:05:31,953 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:05:31,953 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:10:31,914 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:10:31,961 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:10:31,961 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:15:31,924 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:15:31,974 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:15:31,974 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:20:31,928 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:20:31,976 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:20:31,976 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:23:30,905 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:23:30,981 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:23:30,981 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:23:36,207 - FileManager - INFO - Loaded 9433 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:23:36,214 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,214 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,215 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,215 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,215 - FileManager - ERROR - Error processing row 7: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,216 - FileManager - ERROR - Error processing row 8: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,216 - FileManager - ERROR - Error processing row 9: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,216 - FileManager - ERROR - Error processing row 10: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,216 - FileManager - ERROR - Error processing row 11: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,216 - FileManager - ERROR - Error processing row 12: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,217 - FileManager - ERROR - Error processing row 13: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,217 - FileManager - ERROR - Error processing row 14: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,217 - FileManager - ERROR - Error processing row 15: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,217 - FileManager - ERROR - Error processing row 16: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,218 - FileManager - ERROR - Error processing row 17: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,218 - FileManager - ERROR - Error processing row 18: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 14:23:36,218 - FileManager - INFO - Successfully loaded 17 projects
+2025-02-20 14:23:37,785 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:23:37,836 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:23:37,837 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:28:36,182 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:28:36,243 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:28:36,243 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:33:36,215 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:33:36,293 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:33:36,293 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:38:38,206 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:38:38,280 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:38:38,280 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:43:40,208 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:43:40,319 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:43:40,319 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:48:42,205 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:48:42,286 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:48:42,286 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 14:53:42,231 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 14:53:42,296 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 14:53:42,296 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:00:09,560 - FileManager - INFO - Loaded 10341 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 7: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 8: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 9: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 10: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,560 - FileManager - ERROR - Error processing row 11: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - ERROR - Error processing row 12: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - ERROR - Error processing row 13: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - ERROR - Error processing row 14: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - ERROR - Error processing row 15: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - ERROR - Error processing row 16: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - ERROR - Error processing row 17: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - ERROR - Error processing row 18: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:00:09,561 - FileManager - INFO - Successfully loaded 17 projects
+2025-02-20 15:00:14,062 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:00:14,108 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:00:14,108 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:02:52,849 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:02:52,896 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:02:52,896 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:05:09,556 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:05:09,637 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:05:09,637 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:10:09,564 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:10:09,665 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:10:09,665 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:15:09,575 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:15:09,660 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:15:09,660 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:16:33,416 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:16:33,464 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:16:33,465 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:16:39,120 - FileManager - INFO - Loaded 10850 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:16:39,126 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 7: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 8: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 9: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 10: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 11: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,127 - FileManager - ERROR - Error processing row 12: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,128 - FileManager - ERROR - Error processing row 13: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,128 - FileManager - ERROR - Error processing row 14: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,128 - FileManager - ERROR - Error processing row 15: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,128 - FileManager - ERROR - Error processing row 16: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,128 - FileManager - ERROR - Error processing row 17: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,128 - FileManager - ERROR - Error processing row 18: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-20 15:16:39,128 - FileManager - INFO - Successfully loaded 17 projects
+2025-02-20 15:16:42,335 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:16:42,397 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:16:42,397 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:21:39,094 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:21:39,178 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:21:39,178 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:26:39,127 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:26:39,232 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:26:39,232 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:31:39,157 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:31:39,258 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:31:39,258 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:36:39,160 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:36:39,264 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:36:39,264 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:41:41,150 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:41:41,271 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:41:41,271 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:46:43,155 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:46:43,263 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:46:43,264 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:51:43,182 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:51:43,278 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:51:43,278 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 15:56:43,202 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 15:56:43,309 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 15:56:43,310 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:01:43,218 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:01:43,325 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:01:43,325 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:06:43,225 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:06:43,327 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:06:43,328 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:11:43,270 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:11:43,373 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:11:43,373 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:16:43,272 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:16:43,375 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:16:43,376 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:21:43,280 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:21:43,386 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:21:43,387 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:26:43,362 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:26:43,419 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:26:43,419 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:31:43,374 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:31:43,439 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:31:43,439 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:36:43,412 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:36:43,466 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:36:43,466 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:41:45,391 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:41:45,446 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:41:45,446 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:46:47,378 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:46:47,435 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:46:47,435 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:51:49,367 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:51:49,427 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:51:49,428 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-20 16:54:20,258 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-20.csv
+2025-02-20 16:54:20,320 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-20.csv
+2025-02-20 16:54:20,321 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-20.json
+2025-02-21 07:29:20,293 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-21 08:24:44,797 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-21 08:24:50,594 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-21 08:24:51,800 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 08:24:51,800 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 08:29:06,626 - FileManager - INFO - Loaded 0 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 08:29:06,626 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-21 08:29:09,600 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 08:29:09,600 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 08:29:09,600 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 08:39:10,750 - FileManager - INFO - Loaded 108 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 08:39:10,750 - FileManager - INFO - Successfully loaded 1 projects
+2025-02-21 08:39:12,552 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 08:39:12,554 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 08:39:12,554 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 08:40:07,263 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 08:40:07,265 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 08:40:07,265 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 08:58:38,737 - FileManager - INFO - Loaded 136 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 08:58:38,743 - FileManager - INFO - Successfully loaded 1 projects
+2025-02-21 09:03:38,734 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:03:38,736 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:03:38,736 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:06:16,572 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:06:16,575 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:06:16,575 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:08:38,737 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:08:38,740 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:08:38,741 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:13:38,752 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:13:38,757 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:13:38,757 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:18:38,761 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:18:38,765 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:18:38,766 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:23:38,784 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:23:38,789 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:23:38,789 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:28:40,786 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:28:40,791 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:28:40,791 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:33:42,797 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:33:42,807 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:33:42,807 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:38:44,787 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:38:44,795 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:38:44,796 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:43:46,784 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:43:46,790 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:43:46,792 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 09:45:21,592 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 09:45:21,600 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 09:45:21,600 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 11:07:30,720 - FileManager - INFO - Loaded 1545 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 11:07:30,721 - FileManager - ERROR - Error processing row 3: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-21 11:07:30,721 - FileManager - ERROR - Error processing row 4: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-21 11:07:30,721 - FileManager - ERROR - Error processing row 5: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-21 11:07:30,721 - FileManager - ERROR - Error processing row 6: ProjectTracker.normalize_project_number() missing 1 required positional argument: 'number'
+2025-02-21 11:07:30,721 - FileManager - INFO - Successfully loaded 5 projects
+2025-02-21 13:27:56,671 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-21 13:28:10,410 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 13:28:10,410 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 13:31:23,183 - FileManager - INFO - Loaded 2413 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 13:31:23,185 - FileManager - INFO - Successfully loaded 7 projects
+2025-02-21 13:31:25,149 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 13:31:25,159 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 13:31:25,160 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 13:39:14,204 - FileManager - INFO - Loaded 6 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 13:39:14,205 - FileManager - INFO - Successfully loaded 1 projects
+2025-02-21 13:39:17,065 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 13:39:17,066 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 13:39:17,066 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 13:39:36,320 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 13:39:36,323 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 13:39:36,323 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:01:15,958 - FileManager - INFO - Loaded 17 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:01:15,959 - FileManager - INFO - Successfully loaded 1 projects
+2025-02-21 14:01:24,364 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 14:01:24,366 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 14:01:24,366 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:07:01,194 - FileManager - INFO - Loaded 2413 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:07:01,194 - FileManager - INFO - Successfully loaded 7 projects
+2025-02-21 14:07:02,170 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 14:07:02,180 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 14:07:02,180 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:07:36,307 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 14:07:36,319 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 14:07:36,319 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:49:39,160 - FileManager - INFO - Loaded 2429 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:49:39,165 - FileManager - INFO - Successfully loaded 7 projects
+2025-02-21 14:49:47,580 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 14:49:47,593 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 14:49:47,593 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 14:50:00,475 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 14:50:00,488 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 14:50:00,489 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 17:13:07,324 - FileManager - INFO - Loaded 21 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 17:13:07,330 - FileManager - INFO - Successfully loaded 2 projects
+2025-02-21 17:13:10,890 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 17:13:10,892 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 17:13:10,892 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-21.json
+2025-02-21 17:15:10,478 - FileManager - INFO - Loaded 2671 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 17:15:10,479 - FileManager - INFO - Successfully loaded 7 projects
+2025-02-21 17:20:10,502 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 17:20:10,524 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 17:20:10,524 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-21 17:22:34,379 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-21.csv
+2025-02-21 17:22:34,391 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-21.csv
+2025-02-21 17:22:34,391 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-21.json
+2025-02-24 08:01:17,093 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-24 08:03:19,413 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:03:19,413 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:03:22,242 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:03:22,243 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:03:22,243 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:06:16,526 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:06:16,528 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:06:16,528 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:11:17,345 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:11:17,347 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:11:17,348 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:16:18,419 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:16:18,425 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:16:18,425 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:21:20,006 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:21:20,009 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:21:20,009 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:26:20,080 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:26:20,084 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:26:20,084 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:31:20,185 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:31:20,189 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:31:20,189 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:36:20,189 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:36:20,196 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:36:20,196 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:41:20,263 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:41:20,274 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:41:20,275 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:46:20,314 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:46:20,321 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:46:20,321 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:51:20,418 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:51:20,428 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:51:20,428 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 08:56:20,544 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 08:56:20,554 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 08:56:20,554 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:01:20,592 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:01:20,601 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:01:20,601 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:06:20,643 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:06:20,655 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:06:20,656 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:11:20,725 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:11:20,736 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:11:20,736 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:16:20,861 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:16:20,872 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:16:20,872 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:21:20,932 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:21:20,949 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:21:20,949 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:26:21,069 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:26:21,083 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:26:21,084 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:31:21,134 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:31:21,152 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:31:21,152 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:36:21,243 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:36:21,256 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:36:21,257 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:41:21,294 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:41:21,307 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:41:21,307 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:46:21,372 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:46:21,392 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:46:21,392 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:51:21,406 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:51:21,422 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:51:21,422 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 09:56:21,457 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 09:56:21,477 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 09:56:21,477 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:01:21,558 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:01:21,582 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:01:21,582 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:06:21,691 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:06:21,708 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:06:21,708 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:11:21,701 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:11:21,719 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:11:21,719 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:16:21,780 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:16:21,799 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:16:21,800 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:21:21,840 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:21:21,860 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:21:21,860 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:26:21,917 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:26:21,958 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:26:21,958 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:31:21,982 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:31:22,031 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:31:22,033 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:36:22,018 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:36:22,040 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:36:22,040 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:41:22,067 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:41:22,106 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:41:22,106 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:46:22,130 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:46:22,152 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:46:22,152 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:51:22,190 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:51:22,217 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:51:22,217 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 10:56:22,219 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 10:56:22,242 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 10:56:22,242 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:01:22,282 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:01:22,305 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:01:22,305 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:06:22,331 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:06:22,357 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:06:22,357 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:11:22,436 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:11:22,495 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:11:22,496 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:16:22,464 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:16:22,495 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:16:22,495 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:21:22,546 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:21:22,577 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:21:22,577 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:26:22,642 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:26:22,673 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:26:22,674 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:31:22,763 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:31:22,791 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:31:22,791 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:36:22,807 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:36:22,834 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:36:22,834 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:41:22,902 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:41:22,929 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:41:22,930 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:46:22,968 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:46:22,997 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:46:22,997 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:51:23,006 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:51:23,057 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:51:23,057 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 11:56:23,027 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 11:56:23,057 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 11:56:23,058 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:01:23,047 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:01:23,077 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:01:23,077 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:06:23,074 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:06:23,106 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:06:23,106 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:11:23,107 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:11:23,140 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:11:23,141 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:16:23,123 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:16:23,159 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:16:23,160 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:21:23,172 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:21:23,203 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:21:23,204 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:26:23,181 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:26:23,240 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:26:23,240 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:31:23,201 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:31:23,237 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:31:23,237 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 12:33:20,528 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 12:33:20,563 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 12:33:20,563 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 14:49:02,056 - FileManager - INFO - Loaded 8263 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 14:49:02,064 - FileManager - INFO - Successfully loaded 13 projects
+2025-02-24 14:54:02,032 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 14:54:02,070 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 14:54:02,070 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 14:59:02,063 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 14:59:02,100 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 14:59:02,100 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:04:02,073 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 15:04:02,109 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:04:02,109 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:09:02,106 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 15:09:02,145 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:09:02,145 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:14:02,122 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 15:14:02,157 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:14:02,158 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:19:02,142 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 15:19:02,179 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:19:02,180 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:24:02,145 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 15:24:02,182 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:24:02,182 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:32:29,689 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-24 15:43:55,666 - FileManager - INFO - Successfully loaded 0 projects
+2025-02-24 15:43:58,679 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:43:58,679 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:44:32,931 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 15:44:32,932 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:44:32,932 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:53:18,278 - FileManager - INFO - Loaded 9321 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 15:53:18,278 - FileManager - INFO - Successfully loaded 14 projects
+2025-02-24 15:53:20,032 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 15:53:20,070 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 15:53:20,070 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:03:21,870 - FileManager - INFO - Loaded 19 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:03:21,876 - FileManager - INFO - Successfully loaded 2 projects
+2025-02-24 16:03:25,062 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:03:25,062 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:03:25,063 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:05:42,057 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:05:42,058 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:05:42,058 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:37:25,252 - FileManager - INFO - Loaded 89 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:37:25,257 - FileManager - INFO - Successfully loaded 2 projects
+2025-02-24 16:37:31,738 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:37:31,739 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:37:31,739 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:42:20,683 - FileManager - INFO - Loaded 92 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:42:20,685 - FileManager - INFO - Successfully loaded 2 projects
+2025-02-24 16:42:24,176 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:42:24,177 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:42:24,177 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:42:28,167 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:42:28,168 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:42:28,168 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:42:32,172 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:42:32,173 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:42:32,173 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:42:37,167 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:42:37,168 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:42:37,168 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:42:45,238 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:42:45,240 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:42:45,240 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:42:47,648 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:42:47,649 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:42:47,649 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:44:41,089 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:44:41,090 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:44:41,090 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:47:20,683 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:47:20,685 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:47:20,685 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:49:15,942 - FileManager - INFO - Loaded 242 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:49:15,942 - FileManager - INFO - Successfully loaded 2 projects
+2025-02-24 16:49:20,252 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:49:20,253 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:49:20,254 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:49:25,353 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:49:25,357 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:49:25,357 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:49:28,219 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:49:28,220 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:49:28,220 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:49:31,210 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:49:31,211 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:49:31,212 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:49:35,203 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:49:35,204 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:49:35,204 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:50:12,267 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:50:12,269 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:50:12,269 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:51:26,946 - FileManager - INFO - Loaded 9321 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:51:26,946 - FileManager - INFO - Successfully loaded 14 projects
+2025-02-24 16:51:28,344 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:51:28,382 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:51:28,382 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:52:20,710 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:52:20,712 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:52:20,712 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:52:24,251 - FileManager - INFO - Loaded 9321 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:52:24,257 - FileManager - INFO - Successfully loaded 14 projects
+2025-02-24 16:52:25,450 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:52:25,487 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:52:25,487 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:53:41,245 - FileManager - INFO - Loaded 9321 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:53:41,251 - FileManager - INFO - Successfully loaded 14 projects
+2025-02-24 16:53:42,496 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:53:42,533 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:53:42,533 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:54:15,961 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:54:15,963 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:54:15,963 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:55:07,906 - FileManager - INFO - Loaded 9321 history entries from c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:55:07,912 - FileManager - INFO - Successfully loaded 14 projects
+2025-02-24 16:55:09,419 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:55:09,456 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:55:09,456 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:55:25,369 - FileManager - INFO - Created backup: c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:55:25,407 - FileManager - INFO - Successfully saved project times to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:55:25,408 - FileManager - INFO - Saved project history to c:\temp\MalceodJordantimesheet\timesheetorg\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:56:34,411 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:56:34,414 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:56:34,414 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:56:35,933 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 16:56:35,937 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 16:56:35,937 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:59:32,237 - FileManager - INFO - Loaded 519 history entries from C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 16:59:32,237 - FileManager - INFO - Successfully loaded 2 projects
+2025-02-24 17:04:21,114 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 17:04:21,117 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 17:04:21,117 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-24 17:04:29,091 - FileManager - INFO - Created backup: C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\backup\project_times_2025-02-24.csv
+2025-02-24 17:04:29,094 - FileManager - INFO - Successfully saved project times to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_times_2025-02-24.csv
+2025-02-24 17:04:29,094 - FileManager - INFO - Saved project history to C:\temp\MalceodJordantimesheet\timesheetorg\dist\timesheet_data\project_history_2025-02-24.json
+2025-02-26 14:04:50,729 - FileManager - INFO - Loaded 10853 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:04:50,730 - FileManager - INFO - Successfully loaded 18 projects
+2025-02-26 14:04:59,903 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:04:59,946 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:04:59,947 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:05:09,094 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:05:09,138 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:05:09,138 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:07:07,350 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:07:07,395 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:07:07,395 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:09:48,576 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:09:48,648 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:09:48,648 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:09:57,901 - FileManager - INFO - Loaded 11001 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:09:57,902 - FileManager - INFO - Successfully loaded 18 projects
+2025-02-26 14:09:59,370 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:09:59,414 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:09:59,414 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:10:44,184 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:10:44,229 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:10:44,229 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:14:57,910 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:14:57,962 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:14:57,962 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:17:28,729 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:17:28,772 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:17:28,772 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:17:35,078 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:17:35,126 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:17:35,126 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:28:04,909 - FileManager - INFO - Loaded 11304 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:28:04,910 - FileManager - INFO - Successfully loaded 18 projects
+2025-02-26 14:32:14,975 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:32:15,021 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:32:15,021 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:33:04,920 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:33:04,964 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:33:04,964 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:35:06,612 - FileManager - INFO - Loaded 11454 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:35:06,613 - FileManager - INFO - Successfully loaded 18 projects
+2025-02-26 14:37:06,223 - FileManager - INFO - Loaded 11454 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:37:06,223 - FileManager - INFO - Successfully loaded 18 projects
+2025-02-26 14:40:51,043 - FileManager - INFO - Loaded 11454 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:40:51,051 - FileManager - INFO - Successfully loaded 18 projects
+2025-02-26 14:44:25,715 - FileManager - INFO - Loaded 11454 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 14:44:25,716 - FileManager - INFO - Successfully loaded 18 projects
+2025-02-26 14:45:56,124 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 14:45:56,169 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 14:45:56,169 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 15:03:03,158 - FileManager - INFO - Loaded 11800 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 15:03:03,158 - FileManager - INFO - Successfully loaded 20 projects
+2025-02-26 15:03:06,017 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 15:03:06,063 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 15:03:06,063 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 15:03:52,610 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 15:03:52,676 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 15:03:52,676 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 15:18:28,944 - FileManager - INFO - Loaded 11824 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 15:18:28,951 - FileManager - INFO - Successfully loaded 20 projects
+2025-02-26 15:18:50,146 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 15:18:50,191 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 15:18:50,191 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 15:23:28,974 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 15:23:29,065 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 15:23:29,065 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 15:24:10,643 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 15:24:10,737 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 15:24:10,737 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:00:41,658 - FileManager - INFO - Loaded 12015 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:00:41,659 - FileManager - INFO - Successfully loaded 20 projects
+2025-02-26 16:01:02,301 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:01:02,348 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:01:02,348 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:03:32,887 - FileManager - INFO - Loaded 12025 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:03:32,888 - FileManager - INFO - Successfully loaded 20 projects
+2025-02-26 16:05:48,868 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:05:48,916 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:05:48,916 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:14:07,977 - FileManager - INFO - Loaded 12092 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:14:07,982 - FileManager - INFO - Successfully loaded 20 projects
+2025-02-26 16:14:10,150 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:14:10,199 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:14:10,199 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:14:29,944 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:14:29,991 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:14:29,991 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:19:11,804 - FileManager - INFO - Loaded 12102 history entries from C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:19:11,805 - FileManager - INFO - Successfully loaded 20 projects
+2025-02-26 16:24:11,826 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:24:11,876 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:24:11,876 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:29:11,847 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:29:11,926 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:29:11,926 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:34:11,863 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:34:11,910 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:34:11,911 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:39:11,925 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:39:11,976 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:39:11,976 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:44:11,995 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:44:12,049 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:44:12,049 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:49:12,012 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:49:12,067 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:49:12,067 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:54:13,996 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:54:14,052 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:54:14,052 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 16:59:14,018 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 16:59:14,158 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 16:59:14,158 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 17:04:14,053 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 17:04:14,173 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 17:04:14,173 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 17:08:52,575 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 17:08:52,628 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 17:08:52,628 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 17:09:14,056 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 17:09:14,109 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 17:09:14,109 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
+2025-02-26 17:10:04,868 - FileManager - INFO - Created backup: C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\backup\project_times_2025-02-26.csv
+2025-02-26 17:10:04,952 - FileManager - INFO - Successfully saved project times to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_times_2025-02-26.csv
+2025-02-26 17:10:04,952 - FileManager - INFO - Saved project history to C:\Users\k.greig\AppData\Local\TimeSheet\timesheet_data\project_history_2025-02-26.json
