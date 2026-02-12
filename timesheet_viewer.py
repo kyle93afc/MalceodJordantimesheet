@@ -260,14 +260,30 @@ def create_burndown_chart(df, start_date, end_date):
 def main():
     st.title("Timesheet Viewer")
     
-    # Fix path handling for Windows
-    data_dir = Path.cwd() / "timesheetorg" / "timesheet_data"
-    if not data_dir.exists():
-        data_dir = Path("C:/temp/MalceodJordantimesheet/timesheetorg/timesheet_data")
-        if not data_dir.exists():
-            st.error(f"Data directory not found at: {data_dir}")
-            st.info("Please make sure you're running the script from the correct directory")
-            return
+    # Fix path handling for Windows - check multiple locations
+    import os
+    possible_paths = [
+        # Primary location: LOCALAPPDATA\TimeSheet\timesheet_data
+        Path(os.environ.get('LOCALAPPDATA', '')) / "TimeSheet" / "timesheet_data",
+        # Fallback locations
+        Path.cwd() / "timesheet_data",
+        Path.cwd() / "timesheetorg" / "timesheet_data",
+        Path("C:/temp/MalceodJordantimesheet/timesheetorg/timesheet_data"),
+    ]
+    
+    data_dir = None
+    for path in possible_paths:
+        if path.exists():
+            data_dir = path
+            st.sidebar.write(f"Using data directory: {data_dir}")
+            break
+    
+    if not data_dir:
+        st.error(f"Data directory not found. Searched locations:")
+        for path in possible_paths:
+            st.error(f"  - {path}")
+        st.info("Please make sure the timesheet data directory exists.")
+        return
     
     df = load_timesheet_data(data_dir)
     if df.empty:
@@ -280,8 +296,8 @@ def main():
     
     # Find the Monday of the week containing min_date
     min_monday = min_date - timedelta(days=min_date.weekday())
-    # Find the Friday of the week containing max_date
-    max_friday = max_date + timedelta(days=4-max_date.weekday())
+    # Find the Sunday of the week containing max_date
+    max_sunday = max_date + timedelta(days=6-max_date.weekday())
     
     # Debug date information
     st.sidebar.write("Debug Date Info:")
@@ -300,14 +316,14 @@ def main():
             "Select Week",
             value=default_date,
             min_value=min_monday,
-            max_value=max_friday,
+            max_value=max_sunday,
             key="date_picker"
         )
         
         # Always start from Monday of the selected week
         week_start = selected_date - timedelta(days=selected_date.weekday())
-        # End on Friday
-        week_end = week_start + timedelta(days=4)
+        # End on Sunday
+        week_end = week_start + timedelta(days=6)
         
         # Debug week range
         st.sidebar.write(f"Week range: {week_start} to {week_end}")
@@ -320,9 +336,9 @@ def main():
             st.warning("No data available for the selected week.")
             return
 
-        # Create daily columns for the week (Monday to Friday)
-        days = [(week_start + timedelta(days=i)) for i in range(5)]  # 5 days instead of 7
-        day_names = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri']
+        # Create daily columns for the week (Monday to Sunday)
+        days = [(week_start + timedelta(days=i)) for i in range(7)]  # Full week
+        day_names = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun']
         day_dates = [d.strftime('%b %d') for d in days]
         
         # Convert dates to datetime for proper pivoting

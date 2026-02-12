@@ -1,6 +1,9 @@
 streamlit==1.42.0
 plotly==5.18.0
 pandas==2.2.0
+numpy
+openpyxl
 pynput==1.7.6
 PyQt5==5.15.10
-pywin32==306 
+pywin32==306
+python-dateutil
