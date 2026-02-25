@@ -68,7 +68,8 @@ This is a Windows time tracking application for MacLeod Jordan. It automatically
 ### Core Components
 - **Main Application**: `timesheetorg/timesheet_tracker_New_v9.py` - The primary time tracking application using PyQt5
 - **Data Storage**: `timesheetorg/timesheet_data/` - JSON files for project history and CSV exports
-- **Update Checker**: `timesheetorg/update_checker.py` - Handles version checking
+- **Version**: `timesheetorg/version.py` - Single source of truth for app version
+- **Update Checker**: `timesheetorg/update_checker.py` - Checks GitHub releases for updates
 
 ### Key Features
 - Automatic project detection from window titles using regex patterns
@@ -77,6 +78,7 @@ This is a Windows time tracking application for MacLeod Jordan. It automatically
 - System tray integration
 - Week-by-week navigation with arrow buttons
 - Data export to Excel/CSV
+- Auto-update via GitHub releases (checks on startup, downloads + applies in-app)
 
 ## Common Development Commands
 
@@ -108,9 +110,41 @@ PyQt5, pynput, pywin32, python-dateutil
 ## Important File Locations
 
 - Main application: `timesheetorg/timesheet_tracker_New_v9.py`
+- Version constant: `timesheetorg/version.py`
+- Update checker: `timesheetorg/update_checker.py`
 - Data directory: `timesheetorg/timesheet_data/`
 - Icons/assets: `timesheetorg/assets/`
 - Build spec: `timesheetorg/timetracker.spec`
+- CI/CD workflow: `.github/workflows/release.yml`
+- Release instructions: `RELEASE_INSTRUCTIONS.md`
+
+## Versioning & Releases
+
+**Version source of truth**: `timesheetorg/version.py` — `VERSION = "X.Y.Z"`
+
+### How to Release a New Version
+
+1. **Update version**: Edit `timesheetorg/version.py` with the new version number
+2. **Commit**: `git commit -am "Bump version to X.Y.Z"`
+3. **Tag**: `git tag vX.Y.Z`
+4. **Push**: `git push origin main --tags`
+5. **GitHub Actions** automatically builds the `.exe` and creates a release
+
+### Version Rules for AI Assistants
+
+- **Only one file** needs a version bump: `timesheetorg/version.py`
+- The window title reads `VERSION` automatically
+- Git tags use `v` prefix: `v1.2.0` (not `1.2.0`)
+- The GitHub release asset must be named `TimeTracker.exe`
+- Write meaningful release notes — users see them in the update dialog
+- See `RELEASE_INSTRUCTIONS.md` for the complete reference
+
+### How Auto-Update Works
+
+1. App starts → waits 5 seconds → background thread checks GitHub API
+2. If newer version found → shows dialog with release notes
+3. User clicks "Update Now" → downloads new `.exe` → creates updater batch script
+4. App exits → batch script swaps the `.exe` → relaunches → self-deletes
 
 ## Deployment
 
@@ -120,4 +154,5 @@ The application uses PyInstaller to create a single executable that includes:
 - Application assets (icons, logos)
 - Data directory structure
 
-Network deployment is handled via batch scripts that copy the executable and create shortcuts.
+**Primary distribution**: GitHub Releases (automatic via CI/CD)
+**Legacy distribution**: Network share via `build_and_prepare.bat` and `network_install.bat`
