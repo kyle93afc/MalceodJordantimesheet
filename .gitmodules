@@ -1,0 +1,3 @@
+[submodule "timesheetorg"]
+	path = timesheetorg
+	url = https://github.com/MacLeod-Jordan/timesheetorg.git
