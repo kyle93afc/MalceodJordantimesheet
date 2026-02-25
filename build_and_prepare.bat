@@ -62,57 +62,12 @@ set "NETWORK_DIST=network_dist"
 rd /s /q "%NETWORK_DIST%" 2>nul
 mkdir "%NETWORK_DIST%"
 
-:: Setup portable Python
-echo Setting up portable Python...
-call portable_python_setup.bat
-
-:: Extract version from file_version_info.txt
-for /f "tokens=3 delims='" %%a in ('findstr "FileVersion" file_version_info.txt') do set "VERSION=%%a"
-echo Current version: %VERSION%
-
 :: Copy files to network distribution
 echo Preparing network distribution...
 echo F | xcopy /y /q "timesheetorg\dist\TimeTracker.exe" "%NETWORK_DIST%\TimeSheet.exe"
 xcopy /y /q "network_install.bat" "%NETWORK_DIST%\"
 xcopy /y /q "README.md" "%NETWORK_DIST%\"
 xcopy /y /s /i /q "timesheetorg\assets" "%NETWORK_DIST%\assets\"
-xcopy /y /q "timesheetorg\timesheet_viewer.py" "%NETWORK_DIST%\"
-
-:: Create portable Python archive using tar instead of direct copy
-echo Creating portable Python archive (this is much faster than copying individual files)...
-mkdir "%NETWORK_DIST%\portable_python" 2>nul
-tar -cf "%NETWORK_DIST%\portable_python.tar" -C "portable_python" .
-
-:: Create an extraction script for the portable Python
-echo @echo off > "%NETWORK_DIST%\extract_python.bat"
-echo echo Extracting portable Python environment... >> "%NETWORK_DIST%\extract_python.bat"
-echo if not exist "portable_python\python.exe" ( >> "%NETWORK_DIST%\extract_python.bat"
-echo   echo Extracting portable Python from archive... >> "%NETWORK_DIST%\extract_python.bat"
-echo   tar -xf portable_python.tar -C portable_python >> "%NETWORK_DIST%\extract_python.bat"
-echo   if errorlevel 1 ( >> "%NETWORK_DIST%\extract_python.bat"
-echo     echo Error extracting Python environment. >> "%NETWORK_DIST%\extract_python.bat"
-echo     exit /b 1 >> "%NETWORK_DIST%\extract_python.bat"
-echo   ) >> "%NETWORK_DIST%\extract_python.bat"
-echo   echo Portable Python environment extracted successfully. >> "%NETWORK_DIST%\extract_python.bat"
-echo ) else ( >> "%NETWORK_DIST%\extract_python.bat"
-echo   echo Portable Python environment already exists. >> "%NETWORK_DIST%\extract_python.bat"
-echo ) >> "%NETWORK_DIST%\extract_python.bat"
-
-xcopy /y /q "launch_streamlit.bat" "%NETWORK_DIST%\"
-
-:: Create a sample system Python launcher script for the network distribution
-echo Creating system Python launcher template...
-echo @echo off > "%NETWORK_DIST%\launch_streamlit_system.bat"
-echo setlocal enabledelayedexpansion >> "%NETWORK_DIST%\launch_streamlit_system.bat"
-echo set "SCRIPT_DIR=%%~dp0" >> "%NETWORK_DIST%\launch_streamlit_system.bat"
-echo cd "%%SCRIPT_DIR%%" >> "%NETWORK_DIST%\launch_streamlit_system.bat"
-echo echo Installing required packages... >> "%NETWORK_DIST%\launch_streamlit_system.bat"
-echo python -m pip install streamlit pandas plotly -q >> "%NETWORK_DIST%\launch_streamlit_system.bat"
-echo echo Starting Streamlit viewer... >> "%NETWORK_DIST%\launch_streamlit_system.bat"
-echo python -m streamlit run timesheet_viewer.py >> "%NETWORK_DIST%\launch_streamlit_system.bat"
-
-:: Create version file
-echo %VERSION%> "%NETWORK_DIST%\TimeSheet.exe.version"
 
 echo.
 echo Build complete! Version: %VERSION%
@@ -145,40 +100,16 @@ if /i "%DEPLOY_NETWORK%"=="Y" (
         exit /b 1
     )
     
-    :: Ask about portable Python deployment
-    set DEPLOY_PYTHON=N
-    if exist "W:\05-LIBRARY\SOFTWARE\MJ SCRIPTS\portable_python.tar" (
-        echo.
-        echo Portable Python archive already exists on network location.
-        set /p DEPLOY_PYTHON="Update portable Python archive? (Only needed if Python dependencies changed) (Y/N): "
-    ) else (
-        echo.
-        echo Portable Python archive not found on network location.
-        set DEPLOY_PYTHON=Y
-        echo Will deploy portable Python archive (first-time setup).
-    )
-    
-    :: Copy main application files (excluding portable Python)
+    :: Copy application files to network location
     echo.
     echo Copying application files to network location...
-    robocopy "%NETWORK_DIST%" "W:\05-LIBRARY\SOFTWARE\MJ SCRIPTS" /XF portable_python.tar /MIR /NP /NDL /NFL /NC /NS /MT:8
-    
-    :: Copy portable Python archive only if requested
-    if /i "%DEPLOY_PYTHON%"=="Y" (
-        echo.
-        echo Copying portable Python archive (this should be much faster than before)...
-        copy /Y "%NETWORK_DIST%\portable_python.tar" "W:\05-LIBRARY\SOFTWARE\MJ SCRIPTS\"
-        copy /Y "%NETWORK_DIST%\extract_python.bat" "W:\05-LIBRARY\SOFTWARE\MJ SCRIPTS\"
-    ) else (
-        echo.
-        echo Skipped portable Python archive update.
-    )
+    robocopy "%NETWORK_DIST%" "W:\05-LIBRARY\SOFTWARE\MJ SCRIPTS" /MIR /NP /NDL /NFL /NC /NS /MT:8
     
     echo.
     echo Network deployment complete!
-    echo Only changed files were copied to W:\05-LIBRARY\SOFTWARE\MJ SCRIPTS
+    echo Files copied to W:\05-LIBRARY\SOFTWARE\MJ SCRIPTS
 )
 
 echo.
 echo All operations completed.
-timeout /t 3 
+timeout /t 3

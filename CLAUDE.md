@@ -2,80 +2,115 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Workflow Orchestration
+
+### 1. Plan Mode Default
+- Enter plan mode for ANY non-trivial task (3+ steps or architectural decisions)
+- If something goes sideways, STOP and re-plan immediately – don't keep pushing
+- Use plan mode for verification steps, not just building
+- Write detailed specs upfront to reduce ambiguity
+
+### 2. Subagent Strategy
+- Use subagents liberally to keep main context window clean
+- Offload research, exploration, and parallel analysis to subagents
+- For complex problems, throw more compute at it via subagents
+- One task per subagent for focused execution
+
+### 3. Self-Improvement Loop
+- After ANY correction from the user: update `tasks/lessons.md` with the pattern
+- Write rules for yourself that prevent the same mistake
+- Ruthlessly iterate on these lessons until mistake rate drops
+- Review lessons at session start for relevant project
+
+### 4. Verification Before Done
+- Never mark a task complete without proving it works
+- Diff behavior between main and your changes when relevant
+- Ask yourself: "Would a staff engineer approve this?"
+- Run tests, check logs, demonstrate correctness
+
+### 5. Demand Elegance (Balanced)
+- For non-trivial changes: pause and ask "is there a more elegant way?"
+- If a fix feels hacky: "Knowing everything I know now, implement the elegant solution"
+- Skip this for simple, obvious fixes – don't over-engineer
+- Challenge your own work before presenting it
+
+### 6. Autonomous Bug Fixing
+- When given a bug report: just fix it. Don't ask for hand-holding
+- Point at logs, errors, failing tests – then resolve them
+- Zero context switching required from the user
+- Go fix failing CI tests without being told how
+
+### Task Management
+
+1. **Plan First**: Write plan to `tasks/todo.md` with checkable items
+2. **Verify Plan**: Check in before starting implementation
+3. **Track Progress**: Mark items complete as you go
+4. **Explain Changes**: High-level summary at each step
+5. **Document Results**: Add review section to `tasks/todo.md`
+6. **Capture Lessons**: Update `tasks/lessons.md` after corrections
+
+### Core Principles
+
+- **Simplicity First**: Make every change as simple as possible. Impact minimal code.
+- **No Laziness**: Find root causes. No temporary fixes. Senior developer standards.
+- **Minimal Impact**: Changes should only touch what's necessary. Avoid introducing bugs.
+
+---
+
 ## Project Overview
 
-This is a Windows time tracking application with two main components:
-1. **Desktop Application** (`timesheetorg/timesheet_tracker_New_v9.py`) - PyQt5-based GUI that automatically tracks time spent on projects based on window focus
-2. **Web Viewer** (`timesheet_viewer.py`) - Streamlit-based web interface for viewing and analyzing timesheet data
+This is a Windows time tracking application for MacLeod Jordan. It automatically tracks time spent on projects based on window focus and detects project numbers from window titles.
 
-The application is designed for MacLeod Jordan's workflow and automatically detects project numbers from window titles.
+**Desktop Application**: `timesheetorg/timesheet_tracker_New_v9.py` - PyQt5-based GUI
 
 ## Architecture
 
 ### Core Components
 - **Main Application**: `timesheetorg/timesheet_tracker_New_v9.py` - The primary time tracking application using PyQt5
-- **Streamlit Viewer**: `timesheet_viewer.py` - Web-based data visualization and analysis tool
 - **Data Storage**: `timesheetorg/timesheet_data/` - JSON files for project history and CSV exports
-- **Portable Python**: `portable_python/` - Self-contained Python environment for distribution
+- **Update Checker**: `timesheetorg/update_checker.py` - Handles version checking
 
 ### Key Features
 - Automatic project detection from window titles using regex patterns
-- Real-time tracking with 2-second updates and 30-second auto-saves
+- Real-time tracking with 2-second updates and 30-second auto-save
 - Idle detection (5-minute threshold)
 - System tray integration
+- Week-by-week navigation with arrow buttons
 - Data export to Excel/CSV
-- Interactive charts and visualizations
 
 ## Common Development Commands
 
 ### Building the Application
 ```bash
-# Build desktop executable (from root directory)
-build.bat
-
-# Build from timesheetorg directory
 cd timesheetorg
 build.bat
 ```
 
 ### Running the Application
 ```bash
-# Run desktop application directly
 python timesheetorg/timesheet_tracker_New_v9.py
-
-# Run Streamlit viewer
-launch_streamlit.bat
-# or
-portable_python/python.exe -m streamlit run timesheet_viewer.py
 ```
 
 ### Environment Setup
 ```bash
-# Install dependencies for desktop app
 pip install -r timesheetorg/requirements.txt
-
-# Install dependencies for Streamlit viewer
-pip install -r requirements.txt
 ```
 
-### Development Dependencies
-- **Desktop App**: PyQt5, pynput, pywin32, python-dateutil
-- **Streamlit App**: streamlit, plotly, pandas
+### Dependencies
+PyQt5, pynput, pywin32, python-dateutil
 
 ## Data Flow
 
 1. **Desktop App** tracks active windows and detects project numbers
 2. **Project data** is stored in `timesheetorg/timesheet_data/` as JSON files
-3. **Streamlit viewer** reads the same data files for visualization
-4. **Export functionality** creates CSV files in the same data directory
+3. **CSV exports** are created in the same data directory for weekly views
 
 ## Important File Locations
 
 - Main application: `timesheetorg/timesheet_tracker_New_v9.py`
-- Streamlit viewer: `timesheet_viewer.py`
 - Data directory: `timesheetorg/timesheet_data/`
-- Icons/assets: `timesheetorg/assets/` and `timesheetorg/MACLEOD_JORDAN_LOGO.*`
-- Build specs: `timesheetorg/timetracker.spec`
+- Icons/assets: `timesheetorg/assets/`
+- Build spec: `timesheetorg/timetracker.spec`
 
 ## Deployment
 

@@ -1,36 +1,16 @@
-# Rust
-/target/
-**/*.rs.bk
-Cargo.lock
-
-# Node.js
-node_modules/
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-# Tauri
-/src-tauri/target/
-/src-tauri/Cargo.lock
-
 # Build outputs
-/dist/
 /build/
+/dist/
+network_dist/
 *.exe
-*.app
-*.deb
-*.rpm
 
-# Virtual environments
-venv/
-venv38/
-portable_python/
-
-# Python cache
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
+venv/
+portable_python/
 
 # IDE
 .vscode/
@@ -44,15 +24,10 @@ Thumbs.db
 
 # Logs
 *.log
-project_tracking.log
-file_operations.log
 
-# Data files (keep structure, ignore data)
-timesheet_data/*.json
-timesheet_data/*.csv
-timesheet_data/backup/
-timesheet_data/archive/
+# Data
+timesheet_data/
 
-# Dependencies
+# Archives
+*.zip
 *.tar
-test_python.tar
