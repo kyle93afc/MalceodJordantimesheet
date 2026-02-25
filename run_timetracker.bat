@@ -43,22 +43,8 @@ if exist "%LOCALAPPDATA%\Programs\Python\Python312\Lib\site-packages\~ympy" (
 echo Installing/Updating required packages...
 pip install --upgrade PyQt5
 pip install --upgrade pynput
-pip install --upgrade streamlit
-pip install --upgrade plotly
-pip install --upgrade pandas
-pip install numpy==1.24.3
-
-:: Create requirements.txt if it doesn't exist
-echo Creating requirements.txt...
-echo PyQt5>=5.15.9 > requirements.txt
-echo pynput>=1.7.6 >> requirements.txt
-echo streamlit>=1.42.0 >> requirements.txt
-echo plotly>=6.0.0 >> requirements.txt
-echo pandas>=2.0.0 >> requirements.txt
-echo numpy==1.24.3 >> requirements.txt
-
-:: Install from requirements
-pip install -r requirements.txt --no-deps
+pip install --upgrade pywin32
+pip install --upgrade python-dateutil
 
 :: Check if the Python file exists
 if not exist "timesheet_tracker_New_v9.py" (
