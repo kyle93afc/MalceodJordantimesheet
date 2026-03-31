@@ -156,3 +156,18 @@ The application uses PyInstaller to create a single executable that includes:
 
 **Primary distribution**: GitHub Releases (automatic via CI/CD)
 **Legacy distribution**: Network share via `build_and_prepare.bat` and `network_install.bat`
+
+## gstack
+
+Use the `/browse` skill from gstack for **all web browsing**. Never use `mcp__chrome-devtools__*` tools directly.
+
+### Available Skills
+
+`/office-hours`, `/plan-ceo-review`, `/plan-eng-review`, `/plan-design-review`, `/design-consultation`, `/design-shotgun`, `/design-html`, `/review`, `/ship`, `/land-and-deploy`, `/canary`, `/benchmark`, `/browse`, `/connect-chrome`, `/qa`, `/qa-only`, `/design-review`, `/setup-browser-cookies`, `/setup-deploy`, `/retro`, `/investigate`, `/document-release`, `/codex`, `/cso`, `/autoplan`, `/careful`, `/freeze`, `/guard`, `/unfreeze`, `/gstack-upgrade`, `/learn`
+
+### Troubleshooting
+
+If gstack skills aren't working, rebuild the binary and re-register skills:
+```bash
+cd .claude/skills/gstack && ./setup
+```
