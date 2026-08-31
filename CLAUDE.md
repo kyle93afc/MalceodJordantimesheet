@@ -73,7 +73,7 @@ This is a Windows time tracking application for MacLeod Jordan. It automatically
 
 ### Key Features
 - Automatic project detection from window titles using regex patterns
-- Real-time tracking with 2-second updates and 30-second auto-save
+- Real-time tracking with 2-second updates and 5-minute auto-save
 - Idle detection (5-minute threshold)
 - System tray integration
 - Week-by-week navigation with arrow buttons
