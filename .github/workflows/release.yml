@@ -27,6 +27,10 @@ jobs:
           pip install -r timesheetorg/requirements.txt
           pip install pyinstaller
 
+      - name: Run tests
+        working-directory: timesheetorg
+        run: python -m unittest discover -s tests
+
       - name: Build executable
         run: |
           cd timesheetorg
