@@ -31,3 +31,6 @@ timesheet_data/
 # Archives
 *.zip
 *.tar
+
+# Runtime day records (never commit)
+/data/
