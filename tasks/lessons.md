@@ -9,3 +9,4 @@
 - Never let an optional-asset code path swallow the fallback: catch per attempt, not around the whole function.
 - In pytest, hold the QApplication (and any TimeTrackerWindow) in a module-level list. If the only reference is a local, Qt aborts the whole process with "Must construct a QApplication before a QWidget" (exit 0xC0000409) and pytest prints no summary.
 - Reviewer evidence scripts assert defects. Re-run them after fixing and expect every assertion to fail; write the desired-behaviour test separately.
+- PyInstaller 6 onefile hands the unpack folder to children via _PYI_APPLICATION_HOME_DIR / _PYI_ARCHIVE_FILE / _PYI_PARENT_PROCESS_LEVEL (older: _MEIPASS2). Any self-relaunch must strip all of them from the child's environment, or the child shares the parent's temp folder and loses it when the parent exits. Reproduce with psutil: read the python child's environ, launch a second copy with those vars, compare the "Loaded QSS from" _MEI paths.
